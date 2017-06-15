@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MMPickerView
 ============
  
@@ -189,3 +190,6 @@ A useful feature is to let the PickerView select whatever was selected last time
 MMPickerView is brought to you by [**Madjid Mahdjoubi**](https://twitter.com/MrMadjid). If you have feature suggestions or bug reports, feel free to help out by sending pull requests or by [creating new issues](https://github.com/madjid/MMPickerView/issues/new). If you're using MMPickerView in your project, attribution would be nice.
 
 
+=======
+# RE-MMPickerView
+>>>>>>> 7db5aaf6fdbf48d27974689c5a747db9ceca107f
